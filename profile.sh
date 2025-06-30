@@ -17,5 +17,5 @@ fi
 # source custom functions
 [ -f "$HOME/.tmp/dotfiles/functions.sh" ] && source "$HOME/.tmp/dotfiles/functions.sh"
 
-# make ~/.tmp/dotfiles/rshell-cleanup.sh executable
-chmod +x ~/.tmp/dotfiles/rshell-cleanup.sh
+# make ~/.tmp/dotfiles/cleanup.sh executable
+chmod +x ~/.tmp/dotfiles/cleanup.sh
